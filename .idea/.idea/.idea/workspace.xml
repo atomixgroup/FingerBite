@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afe49b79-5dac-40e3-8826-747ca8b69dc4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/MB_Eating_Brains_04.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/MB_Eating_Brains_04.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/AnnotationManager" beforeDir="false" afterPath="$PROJECT_DIR$/Library/AnnotationManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/AssetImportState" beforeDir="false" afterPath="$PROJECT_DIR$/Library/AssetImportState" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderIncludePaths" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderIncludePaths" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/10/10145f279f90346bbb61712ff585828b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/10/10145f279f90346bbb61712ff585828b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/15/1591cc800f807484dba27d89df8881c9" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/15/1591cc800f807484dba27d89df8881c9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/15/1591cc800f807484dba27d89df8881c9.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/15/1591cc800f807484dba27d89df8881c9.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/16/16d80d09521894e1b82cbd76feacf002" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/16/16d80d09521894e1b82cbd76feacf002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/1b/1b355da31ea043feba0c03e35dd4bc62" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/1b/1b355da31ea043feba0c03e35dd4bc62" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/20/204281eda18e848e3807efa87d00713b.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/20/204281eda18e848e3807efa87d00713b.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/25/25ebe415cc14c4f4ea15c34a796b75bb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/25/25ebe415cc14c4f4ea15c34a796b75bb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/26244210383c847feaae53c1e91b4e33" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/26244210383c847feaae53c1e91b4e33" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/26244210383c847feaae53c1e91b4e33.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/26244210383c847feaae53c1e91b4e33.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/2682a692a2be7e14e901a738c7806da0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/2682a692a2be7e14e901a738c7806da0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/32/32188fd89022c154c81befa2f0e00be0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/32/32188fd89022c154c81befa2f0e00be0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/33/3396df8e825d94ff3b8535e85da0d247" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/33/3396df8e825d94ff3b8535e85da0d247" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/33/3396df8e825d94ff3b8535e85da0d247.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/33/3396df8e825d94ff3b8535e85da0d247.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/33/33b4584eb3be048f28f1ce5ff07e399a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/33/33b4584eb3be048f28f1ce5ff07e399a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/35/35e9cacc81a6e4740b2de651b2e19532" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/35/35e9cacc81a6e4740b2de651b2e19532" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/35/35e9cacc81a6e4740b2de651b2e19532.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/35/35e9cacc81a6e4740b2de651b2e19532.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/35/35ffb3f49fbd749d9aafe56cbad9ab10.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/35/35ffb3f49fbd749d9aafe56cbad9ab10.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/36/36e8bb3feb5e6402185947b817a6ed8d.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/36/36e8bb3feb5e6402185947b817a6ed8d.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3b/3b3cdfce1d3724d2785efcc3b23660da.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3b/3b3cdfce1d3724d2785efcc3b23660da.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3d/3d7380326a6e14e9688556154528086c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3d/3d7380326a6e14e9688556154528086c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3d/3d7380326a6e14e9688556154528086c.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3d/3d7380326a6e14e9688556154528086c.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3e/3e9a2175e0404f7ea30b2b694850bae0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3e/3e9a2175e0404f7ea30b2b694850bae0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/40/405b9b51bb344a128608d968297df79c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/40/405b9b51bb344a128608d968297df79c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/41/4113173d5e95493ab8765d7b08371de4" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/41/4113173d5e95493ab8765d7b08371de4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/46/460636d894925441ba1debe037d2e343" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/46/460636d894925441ba1debe037d2e343" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/46/460636d894925441ba1debe037d2e343.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/46/460636d894925441ba1debe037d2e343.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/46/46098a81a64a45c5b756320e10a22f13" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/46/46098a81a64a45c5b756320e10a22f13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/46/46c02d8d6499b4309ac1ec5d0b818585" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/46/46c02d8d6499b4309ac1ec5d0b818585" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4c/4c3a5fbff2fa14bf09bfcd6a38d83541" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4c/4c3a5fbff2fa14bf09bfcd6a38d83541" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4c/4c3a5fbff2fa14bf09bfcd6a38d83541.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4c/4c3a5fbff2fa14bf09bfcd6a38d83541.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4f/4f768b64e6c37495699fffe3007e4379" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4f/4f768b64e6c37495699fffe3007e4379" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/51/517af1b5b81b93b43b9745d58f017562" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/51/517af1b5b81b93b43b9745d58f017562" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/54/54820846856014161a452f4eb38ab087" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/54/54820846856014161a452f4eb38ab087" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/54/54820846856014161a452f4eb38ab087.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/54/54820846856014161a452f4eb38ab087.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5d/5d4a2c9d29e244fbe8f0b61d69a47af3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/5d/5d4a2c9d29e244fbe8f0b61d69a47af3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5d/5d4a2c9d29e244fbe8f0b61d69a47af3.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/5d/5d4a2c9d29e244fbe8f0b61d69a47af3.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5e/5e57a6c62c1ec47d0bceb70495845164.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/5e/5e57a6c62c1ec47d0bceb70495845164.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/65/653258c388ea8424db08ebf1e13eb628" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/65/653258c388ea8424db08ebf1e13eb628" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/65/6597c6ea86d36477081342001145d8d9.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/65/6597c6ea86d36477081342001145d8d9.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/65/65c165e5ed4bc413597b6435bae15c04.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/65/65c165e5ed4bc413597b6435bae15c04.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6e/6e2d432c5ea14e75aa3a79f90f704442" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6e/6e2d432c5ea14e75aa3a79f90f704442" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6f/6fe576b47d8b47688ec5d02bccd15cf9" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6f/6fe576b47d8b47688ec5d02bccd15cf9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/71/7100c5478678e49c99f93c906940a48f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/71/7100c5478678e49c99f93c906940a48f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/71/7100c5478678e49c99f93c906940a48f.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/71/7100c5478678e49c99f93c906940a48f.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/72/726d2784a87b044f182b7487b3b8ebb8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/72/726d2784a87b044f182b7487b3b8ebb8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/72/726d2784a87b044f182b7487b3b8ebb8.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/72/726d2784a87b044f182b7487b3b8ebb8.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/75/75799de484ac4f4cadc268d2cbea830a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/75/75799de484ac4f4cadc268d2cbea830a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/76/7668179ede524d6396c8b7d84461ea29" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/76/7668179ede524d6396c8b7d84461ea29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/80/80471503f2e514c6baf9be4e540335fe" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/80/80471503f2e514c6baf9be4e540335fe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/80/80471503f2e514c6baf9be4e540335fe.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/80/80471503f2e514c6baf9be4e540335fe.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/84/844f815391db42d49455cbf1a7bfc434" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/84/844f815391db42d49455cbf1a7bfc434" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/84/84902ee5ae17c406fb353455fe00c583" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/84/84902ee5ae17c406fb353455fe00c583" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/86/86c008322e7c647149878156c5b81940.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/86/86c008322e7c647149878156c5b81940.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/86/86c18994495874297b469aaa57ef9b44.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/86/86c18994495874297b469aaa57ef9b44.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/87/87efaf20c96bd46b2a6e7bf4d4d3fd57" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/87/87efaf20c96bd46b2a6e7bf4d4d3fd57" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/87/87efaf20c96bd46b2a6e7bf4d4d3fd57.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/87/87efaf20c96bd46b2a6e7bf4d4d3fd57.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/88/880f2fc52037c4fe09edb80cfe84ac7c.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/88/880f2fc52037c4fe09edb80cfe84ac7c.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/8f/8f74da08c235647f68ec5142281af180" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/8f/8f74da08c235647f68ec5142281af180" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/8f/8f74da08c235647f68ec5142281af180.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/8f/8f74da08c235647f68ec5142281af180.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/92/92ec8776d6812b4409ff5ca5feb47976" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/92/92ec8776d6812b4409ff5ca5feb47976" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/92/92ec8776d6812b4409ff5ca5feb47976.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/92/92ec8776d6812b4409ff5ca5feb47976.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/93/93c1370867fcb45079592da39e0994c5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/93/93c1370867fcb45079592da39e0994c5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9e/9e7dc8724a0ba4c7c88ff3aff59bda27.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9e/9e7dc8724a0ba4c7c88ff3aff59bda27.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9e/9e8b4b5c9acc3474fb7671fac6df3b51.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9e/9e8b4b5c9acc3474fb7671fac6df3b51.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a8/a8b0de4f113c7dc4a94375da40ae436f.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a8/a8b0de4f113c7dc4a94375da40ae436f.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a8/a8d9e44eff3f447db9448925617ccb44" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a8/a8d9e44eff3f447db9448925617ccb44" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ab/abdc053b8e3644f299aedc641d609a84" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ab/abdc053b8e3644f299aedc641d609a84" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ad/ad57fc2a5742e401dbd68fdd7021b6da" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ad/ad57fc2a5742e401dbd68fdd7021b6da" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ae/aee69fff025414aa096d79f4ee3477d3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ae/aee69fff025414aa096d79f4ee3477d3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ae/aee69fff025414aa096d79f4ee3477d3.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ae/aee69fff025414aa096d79f4ee3477d3.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b2/b259b249369974d2d96860f7ce6aa184" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b2/b259b249369974d2d96860f7ce6aa184" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b2/b259b249369974d2d96860f7ce6aa184.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b2/b259b249369974d2d96860f7ce6aa184.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b5/b5da970776034f77a070d99423d68791" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b5/b5da970776034f77a070d99423d68791" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b9/b95ab00277ee47c687d710a3bb623d0a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b9/b95ab00277ee47c687d710a3bb623d0a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c4/c460a47caef16422ba67e13ae4296e32" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c4/c460a47caef16422ba67e13ae4296e32" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c4/c464fd7f95dc041dea1c15c193fe4a6c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c4/c464fd7f95dc041dea1c15c193fe4a6c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c4/c464fd7f95dc041dea1c15c193fe4a6c.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c4/c464fd7f95dc041dea1c15c193fe4a6c.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c4/c4c68c906ab1d428fbdcd9e1316e6600" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c4/c4c68c906ab1d428fbdcd9e1316e6600" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c4/c4c68c906ab1d428fbdcd9e1316e6600.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c4/c4c68c906ab1d428fbdcd9e1316e6600.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c5/c5b0f608a635e4f2a89b5ed9604f89fe.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c5/c5b0f608a635e4f2a89b5ed9604f89fe.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c7/c7559cdbc33f04af1a5a42d2aa5b40a5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c7/c7559cdbc33f04af1a5a42d2aa5b40a5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ce/cea0a0275548b4df08f37a6e225db32f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ce/cea0a0275548b4df08f37a6e225db32f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d5/d561ec1f7001b4511b1b6b3d1545906f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d5/d561ec1f7001b4511b1b6b3d1545906f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d5/d561ec1f7001b4511b1b6b3d1545906f.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d5/d561ec1f7001b4511b1b6b3d1545906f.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d5/d5d8461883c694c9189b74d5ab60c3a5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d5/d5d8461883c694c9189b74d5ab60c3a5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d5/d5d8461883c694c9189b74d5ab60c3a5.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d5/d5d8461883c694c9189b74d5ab60c3a5.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d6/d67361a21907a4524b851a0b4ba35b83" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d6/d67361a21907a4524b851a0b4ba35b83" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d6/d67361a21907a4524b851a0b4ba35b83.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d6/d67361a21907a4524b851a0b4ba35b83.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/dd/dd105a39e474c4706aba36b8be4febd9" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/dd/dd105a39e474c4706aba36b8be4febd9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/dd/dd105a39e474c4706aba36b8be4febd9.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/dd/dd105a39e474c4706aba36b8be4febd9.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/e1/e1007cd261c84053beb0c3537782908d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/e1/e1007cd261c84053beb0c3537782908d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/e4/e45f79867376940b7ba31502238d8efa.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/e4/e45f79867376940b7ba31502238d8efa.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ed/ed324159e95b04533968db171d71aac6" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ed/ed324159e95b04533968db171d71aac6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ed/ed324159e95b04533968db171d71aac6.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ed/ed324159e95b04533968db171d71aac6.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f1/f1687bb24464840ae9e1d253685ae0f6.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f1/f1687bb24464840ae9e1d253685ae0f6.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f2/f2bba243e3d1645caa5a485ef376b106" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f2/f2bba243e3d1645caa5a485ef376b106" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f4/f4da9cbb408be44968e85ee20767deef" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f4/f4da9cbb408be44968e85ee20767deef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f7/f70555f144d8491a825f0804e09c671c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f7/f70555f144d8491a825f0804e09c671c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f9/f9a24f162d3b14e56aa9c56850986ec5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f9/f9a24f162d3b14e56aa9c56850986ec5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/fd/fd1dcf00fe0cc440d84f390333ce90e9.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/fd/fd1dcf00fe0cc440d84f390333ce90e9.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Resources/mscorlib.dll-resources.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/mono/4.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Resources/unity_builtin_extra" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/globalgamemanagers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/globalgamemanagers.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/level0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/level1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/sharedassets0.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/sharedassets0.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/sharedassets1.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/sharedassets1.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/sharedassets1.resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/unity default resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/CrashReporter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/CrashReporter.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PLCrashReporter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/AppDelegateListener.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/AppDelegateListener.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/LifeCycleListener.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/LifeCycleListener.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/RenderPluginDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/RenderPluginDelegate.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/UnityViewControllerListener.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/UnityViewControllerListener.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Prefix.pch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Preprocessor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Quaternion4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/ActivityIndicator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/ActivityIndicator.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/Keyboard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/Keyboard.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/OrientationSupport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/OrientationSupport.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/SplashScreen.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/SplashScreen.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/StoreReview.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityAppController+ViewHandling.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityAppController+ViewHandling.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView+iOS.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView+iOS.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView+tvOS.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView+tvOS.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase+iOS.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase+iOS.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase+tvOS.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase+tvOS.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/AVCapture.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/AVCapture.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CMVideoSampling.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CMVideoSampling.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CVTextureCache.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CVTextureCache.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CameraCapture.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CameraCapture.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/DeviceSettings.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/DisplayManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/DisplayManager.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/EAGLContextHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/EAGLContextHelper.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/Filesystem.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/FullScreenVideoPlayer.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/GlesHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/GlesHelper.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/IUnityGraphics.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/IUnityGraphicsMetal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/IUnityInterface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/InternalProfiler.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/InternalProfiler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/MetalHelper.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/ObjCRuntime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/OnDemandResources.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityForwardDecls.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityInterface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityMetalSupport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityRendering.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityReplayKit.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityReplayKit.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityReplayKit_Scripting.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityTrampolineCompatibility.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/VideoPlayer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/VideoPlayer.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/WWWConnection.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/WWWConnection.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAds/UnityAdsConfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAds/UnityAdsUnityWrapper.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController+Rendering.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController+Rendering.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController+UnityInterface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController+UnityInterface.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityTrampolineConfigure.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Vector3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/iPhone_Sensors.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/iPhone_Sensors.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/main.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Managed/Metadata/global-metadata.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Managed/Resources/mscorlib.dll-resources.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Managed/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Managed/mono/4.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Resources/unity_builtin_extra" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/globalgamemanagers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/globalgamemanagers.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/level0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/level1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/sharedassets0.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/sharedassets0.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/sharedassets1.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/sharedassets1.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/sharedassets1.resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/unity default resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/LaunchScreen-iPhone.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/LaunchScreen-iPhoneLandscape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/LaunchScreen-iPhonePortrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/Il2CppOptions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/RegisterFeatures.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/RegisterFeatures.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/RegisterMonoModules.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/RegisterMonoModules.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/char-conversions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/codegen/il2cpp-codegen-common.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/codegen/il2cpp-codegen-il2cpp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/codegen/il2cpp-codegen-mono.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/codegen/il2cpp-codegen.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/google/sparsehash/dense_hash_map.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/google/sparsehash/dense_hash_set.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/google/sparsehash/densehashtable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/google/sparsehash/type_traits.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/xamarin-android/logger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/xamarin-android/monodroid.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/xamarin-android/xamarin_getifaddrs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/crc32.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/deflate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/inffast.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/inffixed.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/inflate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/inftrees.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/trees.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/zconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/zlib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/zutil.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/externals/MonoPosixHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/Allocator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/AppendOnlyGCHashMap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/GCHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/GarbageCollector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/WriteBarrier.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/gc_wrapper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icallincludes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System.Configuration/System.Configuration/InternalConfigurationHost.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System.Core/System.IO.MemoryMappedFiles/MemoryMapImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/Microsoft.Win32/NativeMethods.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/Mono.Net.Security/MonoTlsProviderFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.ComponentModel/Win32Exception.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Configuration/DefaultConfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Configuration/InternalConfigurationHost.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/DefaultTraceListener.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/FileVersionInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/PerformanceCounter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/PerformanceCounterCategory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/PerformanceCounterUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/Process.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/Stopwatch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/perfcounters-def.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.IO/FAMWatcher.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.IO/FileSystemWatcher.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.IO/InotifyWatcher.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.IO/KqueueMonitor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net.NetworkInformation/LinuxNetworkInterface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net.NetworkInformation/MacOsIPInterfaceProperties.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net.Sockets/Socket.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net.Sockets/SocketException.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net/Dns.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Threading/Semaphore.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System/IOSelector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono.Globalization.Unicode/Normalization.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono.Interop/ComInteropProxy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono.Security.Cryptography/KeyPairPersistence.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/Runtime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/RuntimeClassHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/RuntimeGPtrArrayHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/RuntimeMarshal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/SafeStringMarshal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Diagnostics/Assert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Diagnostics/Debugger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Diagnostics/StackFrame.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Diagnostics/StackTrace.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CalendarData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CompareInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CompareOptions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CultureData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CultureInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CultureInfoInternals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CultureInfoTables.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/RegionInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.IO/DriveInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.IO/MonoIO.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.IO/Path.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/AssemblyBuilder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/CustomAttributeBuilder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/DerivedType.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/DynamicMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/EnumBuilder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/GenericTypeParameterBuilder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/MethodBuilder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/ModuleBuilder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/SignatureHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/SymbolType.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/TypeBuilder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/Assembly.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/AssemblyName.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/CustomAttributeData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/EventInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/FieldInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MemberInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MethodBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/Module.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoCMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoEventInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoField.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoGenericCMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoGenericClass.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoGenericMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoMethodInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoPropertyInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/ParameterInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/PropertyInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/RtFieldInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.CompilerServices/RuntimeHelpers.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.InteropServices.WindowsRuntime/UnsafeNativeMethods.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.InteropServices/GCHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.InteropServices/Marshal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Activation/ActivationServices.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Contexts/Context.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Messaging/AsyncResult.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Messaging/MonoMethodMessage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Proxies/RealProxy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting/RemotingServices.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Versioning/VersioningHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Cryptography/RNGCryptoServiceProvider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Policy/Evidence.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Principal/WindowsIdentity.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Principal/WindowsImpersonationContext.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Principal/WindowsPrincipal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security/SecurityFrame.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security/SecurityManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Text/Encoding.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Text/EncodingHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Text/Normalization.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Interlocked.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/InternalThread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Monitor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Mutex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/NativeEventCalls.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Thread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/ThreadPool.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Timer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/WaitHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Activator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/AppDomain.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/ArgIterator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Array.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/CLRConfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Char.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/ConsoleDriver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Convert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/CurrentSystemTimeZone.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/DateTime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Decimal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Delegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Double.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Enum.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Environment.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Exception.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/GC.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Math.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/MissingMemberException.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/MonoCustomAttrs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/MonoEnumInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/MonoType.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Number.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/NumberFormatter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Object.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/RuntimeFieldHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/RuntimeMethodHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/RuntimeType.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/RuntimeTypeHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/SizedReference.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/String.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/TimeSpan.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/TimeZoneInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Type.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/TypedReference.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/ValueType.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/__ComObject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-api-functions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-api-types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-blob.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-class-internals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-config-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-config.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-metadata.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-normalization-tables.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-number-formatter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-object-internals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-runtime-metadata.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-string-types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-tabledefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-vm-support.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/libil2cpp.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/libil2cpp.icalls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/ArrayMetadata.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/FieldLayout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/GenericMetadata.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/GenericMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/GenericSharing.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericClassCompare.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericClassHash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericContextCompare.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericContextHash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericInstCompare.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericInstHash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericMethodCompare.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericMethodHash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppSignatureCompare.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppSignatureHash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppTypeCompare.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppTypeHash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppTypeVector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono-runtime/il2cpp-callbacks.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono-runtime/il2cpp-mapping.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono-runtime/il2cpp-mono-support.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono-structs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/ThreadPoolDataStructures.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/ThreadPoolMacros.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/ThreadPoolMonitorThread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/ThreadPoolWorkerThread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/threadpool-ms-io-poll.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/threadpool-ms-io.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/threadpool-ms.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Atomic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/COM.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/ConditionVariable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Console.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/CpuInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Cryptography.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Debug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Directory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Encoding.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Environment.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Error.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/ErrorCodes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Event.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/File.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/FileSystemWatcher.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Generic/SocketImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Handle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Image.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Initialize.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/LastError.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/LibraryLoader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Locale.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/MarshalAlloc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/MarshalStringAlloc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Memory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/MemoryMappedFile.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Messages.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Mutex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/NativeMethods.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Path.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/AtomicImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/ConditionVariableImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/Error.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/EventImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/FileHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/MutexImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/PosixHelpers.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/PosixWaitObject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/SemaphoreImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/SocketImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/ThreadImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/ThreadLocalValueImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Process.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Semaphore.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Socket.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/StackTrace.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Std/ThreadImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/SystemCertificates.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Thread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/ThreadLocalValue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/TimeZone.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/TimeZoneInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/AtomicNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/AtomicQueue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps-arm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps-arm64.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps-clang-gcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps-x86-64.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps-x86.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicTypes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/UnityPlatformConfigure.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WaitStatus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/AtomicImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/ConditionVariableImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/EventImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/MutexImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/SemaphoreImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/SocketImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/ThreadImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/ThreadLocalValueImpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/WindowsHeaders.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/WindowsHelpers.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WinRT/SynchronousOperation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WinRT/Win32ApiSharedEmulation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WinRT/Win32ApiWinRTEmulation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WindowsRuntime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Allocator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Atomic-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/COM-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/ConditionVariable-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Console-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/CpuInfo-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Cryptography-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Debug-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Directory-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Environment-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Error-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Event-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/File-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Handle-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/LibraryLoader-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Locale-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Memory-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/MemoryMappedFile-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Messages-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Mutex-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/NativeMethods-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/OSGlobalEnums.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Path-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Posix/AtomicImpl-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Process-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Semaphore-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/SystemCertificates-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Thread-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/ThreadLocalValue-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Time-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/TimeZone-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/TimeZoneInfo-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/WaitStatus-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Win32/AtomicImpl-c-api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Win32/WindowsHeaders.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/il2cpp-config-api-platforms.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/il2cpp-config-platforms.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/tests/PathHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/CallOnce.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Collections.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/DirectoryUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Environment.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Exception.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Functional.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/HashUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Il2CppHStringReference.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Il2CppHashMap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Il2CppHashSet.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/KeyWrapper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Logging.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/MarshalingUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/MathUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Memory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/MemoryPool.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/MemoryRead.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/NonCopyable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Output.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/PathUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/RegisterRuntimeInitializeAndCleanup.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Runtime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/StringUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/StringView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/TemplateUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/ThreadSafeFreeList.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/dynamic_array.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/utf8-cpp/source/utf8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/utf8-cpp/source/utf8/checked.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/utf8-cpp/source/utf8/core.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/utf8-cpp/source/utf8/unchecked.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm-utils/BlobReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm-utils/Debugger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm-utils/NativeDelegateMethodCache.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm-utils/NativeSymbol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm-utils/VmStringUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Array.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Assembly.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/AssemblyName.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Atomic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/CCW.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/COM.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/CachedCCWBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Class.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/ComObjectBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Domain.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Enum.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Event.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Exception.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Field.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/GenericClass.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/GenericContainer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Image.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/InternalCalls.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/LastError.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/LibraryLoader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Liveness.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MarshalAlloc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MemoryInformation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MetadataAlloc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MetadataCache.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MetadataLoader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MetadataLock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Method.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Module.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Monitor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/NonCachedCCWBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Object.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Parameter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Path.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/PlatformInvoke.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Profiler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Property.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/RCW.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Random.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Reflection.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Runtime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/StackTrace.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/String.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Thread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/ThreadPool.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/ThreadPoolMs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Type.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/WaitHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/WindowsRuntime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/MapFileParser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/MapFileParser.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone Tests/Unity-iPhone Tests-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone Tests/Unity-iPhone Tests-Prefix.pch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone Tests/Unity_iPhone_Tests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone Tests/en.lproj/InfoPlist.strings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone.xcodeproj/xcshareddata/xcschemes/Unity-iPhone.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone/Images.xcassets/AppIcon.appiconset/Icon-iPhone-120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone/Images.xcassets/LaunchImage.launchimage/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/process_symbols.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0058c2e91cada4510b5447487f8de192" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-02d405209fee545509adf0da680ef8b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-02d64b680322b42c389069937f3a6aeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-02e1e1bb4130c4577a8d5a037e7f68ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-058c8247bda8545cfab087281e3b104f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-05920a5e48c7b4ebdb84e0234ccfbdbd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0835c34e4cf5c49a4b44a8b2da132c69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0a108c806ce104fdc967b61b636d3436" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0c2d73ff0e1144321ac24b57cbffe395" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-10f52bdc14df04446833a988b377c51e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-11ff5bf103f4c45c691df49b02d1cc0b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-16b4430210c7d4a2eb465d0cad37f746" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-17dc9c10e1f154fa1a0bc0427d8dfb31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1f8b48def263d42c0b24a7e1d272ad27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2479b801469364d52adf0e41ca5b927b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-25520643fa5394c7d92e2631452740ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2961ecb4a4acc4d98adcebae685ca3c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2d5a68d9e9d034e8ab7e838030893f91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2e39a3d7c605b4d96ba185e0abd4aafa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-334c7c8ac6f5d4b7a833cc048a1dd6f0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-37439adad682a441789a4150ae8283af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-38997842849ab446b9f40ef7a49b42ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3a820f1ee90114ed8abb574c4567b2b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4093524f3d7354920805eef3c17f152a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-44e60241f2cc04e26b0d4025231396e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-466d33a14985947b58d6a7288e2d350d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-470d81fa8e01847eda3b31fac84fc606" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-49c1c06b277c74e21937ec3c38e05307" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4ec3e0b9a46924e52870e462010aea4d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4fb0a049159f249eebb3eb09166ef97b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-541646748d57448bfbc45189c4f24649" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-631ecd0bb00054bedbecc201dacb33c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6f957719c09514faa9cdbd1ae04da316" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-70f1a4a45f4654dbdb6b8b8ffb9da11a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-71fed7180fb5148de8d6bc5d10e53d0a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7fca07b88dab44ae7888a39c236ea3de" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-80ce5eafbecba4782865e6b00701854a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-85768f4cd00c0422fab7d45c0420369b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-861e20620029744e8b3dd8eef02086fe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-905aaffeb5d8740238eda3fa1bb708b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-990650e22407f485697348767d2eefed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9cb7274e0d5b14692982be44fc126092" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9e66458b31a42433a9d442b45fe16f62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9fa57e2b1e3624b8c94b2e8df4c8a251" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a2683c745952d4c77b740bc5c5fd8144" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b389b43b883cd4cbbb16f607b6e95d1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b54bac76c7f444b3e8af14223def7539" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bcaebd89fcf214fceb41e5a102597616" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c1e6d3925cc0448de902aa27c4ed4697" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c3904726cb00a48c690e41d52bd0b010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ca6d20604074347c58c5bb3d28ba8ccb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cb176c11bcdd94d6e960d34760ef7bb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cdc1ecc73acd048099aad1207c979c22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d230d5ae24afa4086ad07e9eda8b22e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e3ef37e5c21594954995eb71520383b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e48ca7647a7754441a275e9674f921c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e5bdf7ce549df48b1a6229e6ef37c282" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e68b3b4a8fc574226943fbd9f76a1cd5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e69007650995e4b05987d51ff8c9f79b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f0543d0b599bd4720bd15cf262b84752" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f64b75b53c213479bb31928e7240b733" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f669ccf13a4954e0ea4b7339ea24bc37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f7ac29a23b95344b891d5a848e11d769" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fe3e3f39367e04ac4b68645c3e1f5ece" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ff8cf373f56ba4993979b62d0a73110d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Assembly-CSharp_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Assembly-CSharp_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Generics_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Generics_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Generics_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Generics_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Generics_4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Mono.Security_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Mono.Security_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_System.Core_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_System_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_System_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.Analytics_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.AnimationModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.AudioModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.CoreModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.CoreModule_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.GameCenterModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.IMGUIModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.ParticleSystemModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.Physics2DModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.PhysicsModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.SharedInternalsModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.StandardEvents_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.TextRenderingModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UIModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UI_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UI_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UI_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UnityAnalyticsModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UnityConnectModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UnityWebRequestModule_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/Metadata/global-metadata.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/Resources/mscorlib.dll-resources.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/1.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/browscap.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/mconfig/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/GenericMethods0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/GenericMethods1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/GenericMethods2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppAttributes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCodeRegistration.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValuesTable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_0Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_10Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_11Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_12Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_13Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_14Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_15Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_16Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_17Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_18Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_19Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_1Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_20Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_21Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_2Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_3Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_4Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_5Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_6Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_7Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_8Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_9Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericClassTable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericComDefinitions0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericInstDefinitions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericMethodDefinitions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericMethodPointerTable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericMethodTable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppInteropDataTable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppInvokerTable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppMetadataRegistration.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppMetadataUsage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppMethodPointerTable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppTypeDefinitions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/UnityClassRegistration.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/UnityICallRegistration.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/UnresolvedVirtualCallStubs.cpp" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afe49b79-5dac-40e3-8826-747ca8b69dc4" name="Default" comment="" />
+      <created>1528806171976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528806171976</updated>
+      <workItem from="1528806175299" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+
+Library/metadata/*
+
+Library/PlayerDataCache
+
+*.bin
+
+*.txt
+
+\.idea/\.idea\.Carnivorous Plant/\.idea/
+
+*.info
+
